@@ -1,0 +1,16 @@
+{
+    "name": "rockstars",
+    "version": "1.0.0",
+    "description": "Descripcion del proyecto",
+    "scripts": {
+        "test:web": "yarn run chimp"
+    },
+    "main": "index.js",
+    "author": "Isaac L. Rubio <isaac.lopez@enroutesystems.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "babel-core": "^6.26.3",
+        "babel-preset-env": "^1.7.0",
+        "chimp": "^0.51.1"
+    }
+}
